@@ -1,2 +1,3 @@
 # Simple Project Calculator
- Part 1 of the simple project series
+First project of the simple project series!
+I used the tkinter package for get the GUI working.
