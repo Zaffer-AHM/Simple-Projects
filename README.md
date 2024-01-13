@@ -1,2 +1,2 @@
 # Simple Project Calculator
- Part 1 of the simple project series
+ Part 2 of the simple project series
