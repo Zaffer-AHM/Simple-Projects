@@ -1,2 +1,2 @@
-# Simple Project Calculator
- Part 1 of the simple project series
+# SIMPLE PROJECTS
+ This is the begining of something simple!
